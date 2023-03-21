@@ -111,7 +111,16 @@ let days = 0
 
 // CODE HERE
 
+let calc = acresLeft / averageDailyAcres
 
+while (acresLeft > 0){
+    for (let i = acresLeft; i < acresLeft; i--){
+        acresLeft - averageDailyAcres
+    }
+    days += 1
+}
+
+console.log(i)
 
 // PROBLEM 4
 
