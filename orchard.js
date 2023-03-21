@@ -51,8 +51,12 @@ const pinkPrice = .55
 
 // CODE HERE
 
+let totalAcres = 0;
 
-
+for(let i = 0; i < 7; i++){
+    totalAcres += fujiAcres[i] + galaAcres[i] + pinkAcres[i]
+}
+console.log(totalAcres)
 
 
 // PROBLEM 2
@@ -69,9 +73,9 @@ const pinkPrice = .55
 
 // CODE HERE
 
+let averageDailyAcres = totalAcres / 7;
 
-
-
+console.log(averageDailyAcres)
 
 // PROBLEM 3
 
