@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = "A system that lets you back up your code in a 'repository' so you can access them if something unexpected happens to your computer"
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = "A program that creates an online repository so there are multiple ways to access your code. This way, other people will have ways to access your code as well"
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+let gitInitDefinition = "A command you use to start the 'backup' to your repository"
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +41,8 @@
 
 //CODE HERE
 
+let gitCloneDefinition = "A command that creates a copy of an existing repository"
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = "A way to check the contents of your repository"
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +64,9 @@
 
 //CODE HERE
 
+let gitAddDefinition = "A command used to add files to be tracked"
+let gitAddCode = git add .
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +78,8 @@
 
 //CODE HERE
 
+let gitCommitDefinition = "A command you use as a 'bookmark' for your repository so you know what was going on when you go back through the code"
+let gitCommitCode = git commit -m"Initial Commit"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +88,5 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = "The command you use to push your code to github"
